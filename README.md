@@ -8,3 +8,4 @@ Required Attriutes:
 
 for Options attribute provide list of label value pair 
 Ex - var option = [{'label':'option 1', 'value':'option1'}, {'label':'option 2', 'value':'option2'}];
+
