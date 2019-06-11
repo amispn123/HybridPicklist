@@ -1,0 +1,3 @@
+<aura:event type="COMPONENT" description="By this event parent picklist component get to know which option is selected" >
+    <aura:attribute name="selectedOption" type="string"/>
+</aura:event>
